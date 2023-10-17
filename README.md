@@ -1,4 +1,4 @@
-# Welcome To My profile
+# 欢迎 To My profile
 
 I am **Mr. Binary Sniper** Living in Earth with My Human Family.  
 In Earth, People know me as Computer Programmer Who knows these languages
@@ -17,4 +17,4 @@ I am also pretty well in Web Development. I have worked on a lots of project
 for People in Earth.
 
 Thats All for me. Thank you.
-you will not find-out that. Go back.
+> you won't able find anythings else. Go back.
